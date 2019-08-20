@@ -7,6 +7,6 @@
   "rebaseStalePrs": false,
   "rangeStrategy": "bump",
   "bumpVersion": null,
-  "prHourlyLimit": 0,
+  "prHourlyLimit": 5,
   "semanticCommitScope": null
 }
